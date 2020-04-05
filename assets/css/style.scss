@@ -134,8 +134,10 @@
 }
 
 .cd-timeline__img--location {
-  background-color: var(--cd-color-6);
+  background-color: var(--color-black);
 }
+
+ 
 
 .cd-timeline__content {
   flex-grow: 1; // expand element so that it takes up all the available space inside its parent
