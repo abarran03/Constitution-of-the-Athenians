@@ -261,4 +261,12 @@
     transform: translateX(0);    
   }
 }
+
+.cd-main-footer {
+  height: var(--cd-header-height);
+  background: var(--cd-color-2);
+  color: var(--color-white);
+  @include fontSmooth;
+
  
+}
