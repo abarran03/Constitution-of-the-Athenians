@@ -11,13 +11,9 @@
 footer{
 	position: fixed;
 	bottom: 0;
+	position: static;
 }
- 
-@media (max-height:800px){
-	footer { position: static; }
-	header { padding-top:40px; }
-}
- 
+
  
 .footer-distributed{
 	background-color: #2c292f;
