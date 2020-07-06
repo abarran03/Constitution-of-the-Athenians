@@ -1,10 +1,7 @@
 # Constitution of the Athenians Timeline (Aristotle)
 
-
- 
-Universidad Nacional<br/>
-Escuela de Filosofía<br/>
-Seminario de Aristóteles<br/>
-Aristóteles. Constitución de los atenienses<br/>
-Traducido por Manuela García Valdes. Madrid: Gredos, 1999.<br/>
+As part of Aristotle Seminary, a course of Philosophy major from Universidad Nacional de Costa Rica. 
+Technologies used: HTML5, CSS and javascript. 
 Icons made by Freepik from www.flaticon.com
+ 
+ 
