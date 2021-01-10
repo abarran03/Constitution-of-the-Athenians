@@ -1,5 +1,5 @@
 # Constitution of the Athenians Timeline (Aristotle)
-# Introduction
+## Introduction
 It shows a timeline of Constitution of the Athenians, a study by Aristotle about politics and history in the Ancient Greece.   
 
 ## Initial configuration
